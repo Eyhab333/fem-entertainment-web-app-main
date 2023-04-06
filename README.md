@@ -10,17 +10,6 @@
     - [Screenshot](#screenshot)
   - [Details](#details)
     - [Project purpose and goal](#project-purpose-and-goal)
-    - [Web stack and explanation](#web-stack-and-explanation)
-    - [Problem and thought process](#problem-and-thought-process)
-    - [Lesson learned](#lesson-learned)
-    - [Future improvements](#future-improvements)
-    - [Useful resources](#useful-resources)
-  - [Getting started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installing](#installing)
-  - [Contributing](#contributing)
-  - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
